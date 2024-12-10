@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00498C&center=false&vCenter=false&width=500&lines=Hello%2C+I'm+Hogi.;Welcome+to+my+GitHub!;Let's+build+amazing+things+together!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00498C&center=false&vCenter=false&width=500&lines=Hello%2C+I'm+Hogi.;Welcome+to+my+GitHub!;)
 
 
 👋 안녕하세요, Hogi입니다!
