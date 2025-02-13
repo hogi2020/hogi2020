@@ -1,11 +1,11 @@
 # HOGI's Dev Story
 
 <a href="https://github.com/hogi2020">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hogi2020&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HOGI's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hogi2020&show_icons=true&include_all_commits=true&include_orgs=true&theme=nord&hide_border=true" alt="HOGI's github stats" />
 </a>
 
 <a href="https://github.com/hogi2020">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogi2020&layout=compact&theme=nord&hide_border=true" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogi2020&layout=compact&include_orgs=true&theme=nord&hide_border=true" />
 </a> 
 
 <br><br>
